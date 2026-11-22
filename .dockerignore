@@ -1,0 +1,8 @@
+.git
+.github
+**/src
+**/target/*
+!backend/target/*.jar
+README.md
+docs
+.env
